@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ULT+4kxDSaE=",
+  "success": true,
+  "projectFilePath": "D:\\Development\\OneLogin-SSO\\SSO\\SSO.Application\\SSO.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Praful Bhoir\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.1\\microsoft.extensions.dependencyinjection.abstractions.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
