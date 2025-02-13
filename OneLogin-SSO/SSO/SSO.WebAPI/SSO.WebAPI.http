@@ -1,0 +1,6 @@
+@SSO.WebAPI_HostAddress = http://localhost:5167
+
+GET {{SSO.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

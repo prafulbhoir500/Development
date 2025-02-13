@@ -1,0 +1,8 @@
+D:\Development\OneLogin-SSO\SSO\SSO.Web\obj\Release\net8.0\SSO.Web.csproj.AssemblyReference.cache
+D:\Development\OneLogin-SSO\SSO\SSO.Web\obj\Release\net8.0\SSO.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\OneLogin-SSO\SSO\SSO.Web\obj\Release\net8.0\SSO.Web.AssemblyInfoInputs.cache
+D:\Development\OneLogin-SSO\SSO\SSO.Web\obj\Release\net8.0\SSO.Web.AssemblyInfo.cs
+D:\Development\OneLogin-SSO\SSO\SSO.Web\obj\Release\net8.0\SSO.Web.csproj.CoreCompileInputs.cache
+D:\Development\OneLogin-SSO\SSO\SSO.Web\obj\Release\net8.0\SSO.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Development\OneLogin-SSO\SSO\SSO.Web\obj\Release\net8.0\SSO.Web.RazorAssemblyInfo.cache
+D:\Development\OneLogin-SSO\SSO\SSO.Web\obj\Release\net8.0\SSO.Web.RazorAssemblyInfo.cs

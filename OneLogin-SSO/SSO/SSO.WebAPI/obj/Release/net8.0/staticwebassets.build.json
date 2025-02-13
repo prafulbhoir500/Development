@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "N1O1Ptla/R8ZjjRIn8fG/LKiA88UoiZ0wT5Ms4FHSHM=",
+  "Source": "SSO.WebAPI",
+  "BasePath": "_content/SSO.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

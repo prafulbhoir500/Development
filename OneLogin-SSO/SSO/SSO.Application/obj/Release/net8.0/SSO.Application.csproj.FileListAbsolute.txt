@@ -1,0 +1,15 @@
+D:\Development\OneLogin-SSO\SSO\SSO.Application\bin\Release\net8.0\SSO.Application.deps.json
+D:\Development\OneLogin-SSO\SSO\SSO.Application\bin\Release\net8.0\SSO.Application.dll
+D:\Development\OneLogin-SSO\SSO\SSO.Application\bin\Release\net8.0\SSO.Application.pdb
+D:\Development\OneLogin-SSO\SSO\SSO.Application\bin\Release\net8.0\SSO.Domain.dll
+D:\Development\OneLogin-SSO\SSO\SSO.Application\bin\Release\net8.0\SSO.Domain.pdb
+D:\Development\OneLogin-SSO\SSO\SSO.Application\obj\Release\net8.0\SSO.Application.csproj.AssemblyReference.cache
+D:\Development\OneLogin-SSO\SSO\SSO.Application\obj\Release\net8.0\SSO.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\OneLogin-SSO\SSO\SSO.Application\obj\Release\net8.0\SSO.Application.AssemblyInfoInputs.cache
+D:\Development\OneLogin-SSO\SSO\SSO.Application\obj\Release\net8.0\SSO.Application.AssemblyInfo.cs
+D:\Development\OneLogin-SSO\SSO\SSO.Application\obj\Release\net8.0\SSO.Application.csproj.CoreCompileInputs.cache
+D:\Development\OneLogin-SSO\SSO\SSO.Application\obj\Release\net8.0\SSO.Appl.6DAE2D1F.Up2Date
+D:\Development\OneLogin-SSO\SSO\SSO.Application\obj\Release\net8.0\SSO.Application.dll
+D:\Development\OneLogin-SSO\SSO\SSO.Application\obj\Release\net8.0\refint\SSO.Application.dll
+D:\Development\OneLogin-SSO\SSO\SSO.Application\obj\Release\net8.0\SSO.Application.pdb
+D:\Development\OneLogin-SSO\SSO\SSO.Application\obj\Release\net8.0\ref\SSO.Application.dll

@@ -1,0 +1,5 @@
+D:\Development\OneLogin-SSO\SSO\SSO.Infrastructure\obj\Release\net8.0\SSO.Infrastructure.csproj.AssemblyReference.cache
+D:\Development\OneLogin-SSO\SSO\SSO.Infrastructure\obj\Release\net8.0\SSO.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\OneLogin-SSO\SSO\SSO.Infrastructure\obj\Release\net8.0\SSO.Infrastructure.AssemblyInfoInputs.cache
+D:\Development\OneLogin-SSO\SSO\SSO.Infrastructure\obj\Release\net8.0\SSO.Infrastructure.AssemblyInfo.cs
+D:\Development\OneLogin-SSO\SSO\SSO.Infrastructure\obj\Release\net8.0\SSO.Infrastructure.csproj.CoreCompileInputs.cache

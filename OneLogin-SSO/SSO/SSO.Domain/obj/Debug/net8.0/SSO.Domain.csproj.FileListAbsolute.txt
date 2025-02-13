@@ -1,0 +1,11 @@
+D:\Development\OneLogin-SSO\SSO\SSO.Domain\bin\Debug\net8.0\SSO.Domain.deps.json
+D:\Development\OneLogin-SSO\SSO\SSO.Domain\bin\Debug\net8.0\SSO.Domain.dll
+D:\Development\OneLogin-SSO\SSO\SSO.Domain\bin\Debug\net8.0\SSO.Domain.pdb
+D:\Development\OneLogin-SSO\SSO\SSO.Domain\obj\Debug\net8.0\SSO.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\OneLogin-SSO\SSO\SSO.Domain\obj\Debug\net8.0\SSO.Domain.AssemblyInfoInputs.cache
+D:\Development\OneLogin-SSO\SSO\SSO.Domain\obj\Debug\net8.0\SSO.Domain.AssemblyInfo.cs
+D:\Development\OneLogin-SSO\SSO\SSO.Domain\obj\Debug\net8.0\SSO.Domain.csproj.CoreCompileInputs.cache
+D:\Development\OneLogin-SSO\SSO\SSO.Domain\obj\Debug\net8.0\SSO.Domain.dll
+D:\Development\OneLogin-SSO\SSO\SSO.Domain\obj\Debug\net8.0\refint\SSO.Domain.dll
+D:\Development\OneLogin-SSO\SSO\SSO.Domain\obj\Debug\net8.0\SSO.Domain.pdb
+D:\Development\OneLogin-SSO\SSO\SSO.Domain\obj\Debug\net8.0\ref\SSO.Domain.dll
